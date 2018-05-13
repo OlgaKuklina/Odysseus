@@ -1,5 +1,8 @@
 # Odysseus ![ps](https://user-images.githubusercontent.com/6971421/39963100-3894c8cc-5617-11e8-87f8-04d8d680ba2a.png) 
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e64c151f23324e1087189add811b4662)](https://www.codacy.com/app/OlgaKuklina/Odysseus?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=OlgaKuklina/Odysseus&amp;utm_campaign=Badge_Grade) [![Build Status](https://travis-ci.org/OlgaKuklina/Odysseus.svg?branch=master)](https://travis-ci.org/OlgaKuklina/Odysseus)
+
+
 Overview
 ======
 
