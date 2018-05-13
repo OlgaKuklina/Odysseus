@@ -1,7 +1,6 @@
-# ![ps](https://user-images.githubusercontent.com/6971421/39963100-3894c8cc-5617-11e8-87f8-04d8d680ba2a.png) Odysseus
+# Odysseus ![ps](https://user-images.githubusercontent.com/6971421/39963100-3894c8cc-5617-11e8-87f8-04d8d680ba2a.png) 
 
-
-
+Before the term ‘bicycle’ become popular (coming from the French word ‘bicyclette’) in the 1860s, bikes were typically called ‘velocipedes’. 
 
 Overview
 ======
