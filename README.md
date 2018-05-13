@@ -9,18 +9,6 @@ Overview
 ![untitled-3](https://user-images.githubusercontent.com/6971421/39964211-5238e3e0-5634-11e8-91b0-9dccef7bb983.png)
 
 
-Explore and search
-======
-
-
-Getting Started
-======
-
-
-Used libraries
-======
-
-
 License
 ======
 
