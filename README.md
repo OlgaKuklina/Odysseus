@@ -2,14 +2,30 @@
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/e64c151f23324e1087189add811b4662)](https://www.codacy.com/app/OlgaKuklina/Odysseus?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=OlgaKuklina/Odysseus&amp;utm_campaign=Badge_Grade) [![Build Status](https://travis-ci.org/OlgaKuklina/Odysseus.svg?branch=master)](https://travis-ci.org/OlgaKuklina/Odysseus)
 
+Odysseus is an app for bike lovers.
 
-Overview
+OVERVIEW
 ======
+Track your Cycling with Odysseus activity tracker. Record routes, map your favorite bike trail or analyze your training 
+
+Love going for a bike ride? Turn your phone into a amazing Odysseus cycle. Try out a new trail with Odysseus distance tracker or even track your speed. Join Odysseus to train smarter and reach your goals!
+
+ACTIVITY TRACKER
+======
+1. Record routes, track Cycling & analyze: Track your cycling activities: distance, cycle speed, elevation gained & calories burned. Compare your performance over time
+2. Map your route: Go for ride with the world’s largest trail network
+3. Training challenges: Archive your goals with smart trainer
+
+CONNECT & SHARE
+======
+• Record routes on your Odysseus feed for friends & followers. 
+• Share the route map & photos of your latest bike ride
+• Join the Odysseus community
+
 
 ![untitled-3](https://user-images.githubusercontent.com/6971421/39964211-5238e3e0-5634-11e8-91b0-9dccef7bb983.png)
 
-
-License
+LICENSE
 ======
 
 Copyright 2018 Olga Kuklina
