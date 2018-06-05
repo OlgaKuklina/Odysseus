@@ -5,12 +5,12 @@
 Odysseus is an app for bike lovers.
 
 OVERVIEW
-======
+==
 Track your Cycling with Odysseus activity tracker. Record routes, map your favorite bike trail or analyze your training 
 
 Love going for a bike ride? Turn your phone into a amazing Odysseus cycle. Try out a new trail with Odysseus distance tracker or even track your speed. Join Odysseus to train smarter and reach your goals!
 
-ACTIVITY TRACKER
+TRACK ur ACTIVITY 
 ======
 1. Record routes, track Cycling & analyze: Track your cycling activities: distance, cycle speed, elevation gained & calories burned. Compare your performance over time
 2. Map your route: Go for ride with the world’s largest trail network
